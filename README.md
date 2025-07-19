@@ -1,4 +1,4 @@
-
+Este proyecto de tesis consistió en el desarrollo de dos soluciones: una página web y una aplicación móvil creada con React Native mediante Expo. Todo el desarrollo se realizó utilizando JavaScript y CSS. Además, se consumieron APIs alojadas en AWS, ya que el backend fue implementado con AWS Lambda. Todo el despliegue se llevó a cabo en la nube de AWS.
 # Nexuz DB
 
 ## Authors
